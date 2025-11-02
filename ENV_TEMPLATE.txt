@@ -1,0 +1,19 @@
+# Twitter/X Login Credentials
+MY_USERNAME=your_twitter_username_or_email
+MY_PASSWORD=your_twitter_password
+
+# Chrome Browser Path
+# macOS example (already configured for your system):
+CHROME_PATH=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+
+# Chrome User Profile Directory
+# This is where your browser cookies/sessions are stored
+# macOS example:
+PROFILE_PATH=/Users/YOUR_USERNAME/Library/Application Support/Google/Chrome
+
+# INSTRUCTIONS:
+# 1. Copy this file and rename it to .env
+# 2. Replace YOUR_USERNAME with your actual macOS username
+# 3. Fill in your Twitter/X credentials
+# 4. DO NOT commit the .env file to git (it's already in .gitignore)
+
