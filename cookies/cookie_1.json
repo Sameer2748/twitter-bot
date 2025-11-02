@@ -7,7 +7,6 @@
     "expires": 1796623697,
     "httpOnly": false,
     "secure": false,
-    "session": false,
     "sameSite": "Lax"
   },
   {
@@ -18,8 +17,7 @@
     "expires": -1,
     "httpOnly": false,
     "secure": false,
-    "session": true,
-    "sameSite": "Lax"
+    "sameSite": "None"
   },
   {
     "name": "guest_id",
@@ -29,7 +27,6 @@
     "expires": 1796574672.67112,
     "httpOnly": false,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   },
   {
@@ -40,8 +37,7 @@
     "expires": 1793551298,
     "httpOnly": false,
     "secure": false,
-    "session": false,
-    "sameSite": "Lax"
+    "sameSite": "None"
   },
   {
     "name": "guest_id_marketing",
@@ -51,7 +47,6 @@
     "expires": 1796623704.928042,
     "httpOnly": false,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   },
   {
@@ -62,7 +57,6 @@
     "expires": 1796623704.927925,
     "httpOnly": false,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   },
   {
@@ -73,7 +67,6 @@
     "expires": 1796622654.313016,
     "httpOnly": false,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   },
   {
@@ -84,8 +77,7 @@
     "expires": 1762071654.313406,
     "httpOnly": false,
     "secure": true,
-    "session": false,
-    "sameSite": "Lax"
+    "sameSite": "None"
   },
   {
     "name": "g_state",
@@ -95,8 +87,7 @@
     "expires": 1777614672,
     "httpOnly": false,
     "secure": false,
-    "session": false,
-    "sameSite": "Lax"
+    "sameSite": "None"
   },
   {
     "name": "kdt",
@@ -106,8 +97,7 @@
     "expires": 1796622682.017923,
     "httpOnly": true,
     "secure": true,
-    "session": false,
-    "sameSite": "Lax"
+    "sameSite": "None"
   },
   {
     "name": "auth_token",
@@ -117,7 +107,6 @@
     "expires": 1796622682.018314,
     "httpOnly": true,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   },
   {
@@ -128,7 +117,6 @@
     "expires": 1796622682.838268,
     "httpOnly": false,
     "secure": true,
-    "session": false,
     "sameSite": "Lax"
   },
   {
@@ -139,7 +127,6 @@
     "expires": 1762149083.324609,
     "httpOnly": true,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   },
   {
@@ -150,7 +137,6 @@
     "expires": 1793599713.279603,
     "httpOnly": false,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   },
   {
@@ -161,8 +147,7 @@
     "expires": 1762065786.351091,
     "httpOnly": true,
     "secure": true,
-    "session": false,
-    "sameSite": "Lax"
+    "sameSite": "None"
   },
   {
     "name": "cf_clearance",
@@ -172,7 +157,6 @@
     "expires": 1791980913.970911,
     "httpOnly": true,
     "secure": true,
-    "session": false,
     "sameSite": "None"
   }
 ]
